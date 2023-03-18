@@ -1,0 +1,29 @@
+.PlatformNav{
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    box-sizing: border-box;
+    height: 46px;
+}
+.PlatformNavLogo{
+    margin: 0 50px ;
+}
+.PlatformNavLogo a {
+    font-weight: bold;
+}
+
+.PlatformNav-links{
+    display: flex;
+    margin: 0 50px;
+
+} 
+.PlatformNav-links li{
+    margin: 0 50px;
+    list-style: none;
+
+}
+.PlatformNav-links li a {
+    text-decoration: none;
+    color: black;
+}
+   

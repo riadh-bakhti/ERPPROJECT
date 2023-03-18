@@ -1,0 +1,33 @@
+
+.Nav{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    box-sizing: border-box;
+    height: 46px;
+}
+.logo{
+    margin: 0 50px ;
+}
+.logo a {
+    font-weight: bold;
+}
+
+.nav-links{
+    display: flex;
+    margin: 0 50px;
+
+} 
+.nav-links li{
+    margin: 0 50px;
+    list-style: none;
+
+}
+.nav-links li a {
+    text-decoration: none;
+    color: black;
+}
+.sign button {
+    margin: 0 15px;
+}
+     

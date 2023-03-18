@@ -1,0 +1,11 @@
+$brand-google: #ea4335 !default;
+$brand-facebook: #3b5998 !default;
+
+.btn-google {
+    @include button-variant($brand-google, $white);
+  }
+  
+  .btn-facebook {
+    @include button-variant($brand-facebook, $white);
+  }
+@import "../node_modules/bootstrap/scss/bootstrap";

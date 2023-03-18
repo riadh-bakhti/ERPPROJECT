@@ -1,0 +1,42 @@
+.bckgr {
+    background-color: #616161;
+    /* background-image:url(../../../public/gradient.png); */
+    height: 745px;
+    
+    
+    
+    
+  }
+  
+.img2{
+    height: 80px;
+    width: 80px;
+    
+}
+
+.acl{
+    height: 600px;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+.bt{
+background: rgba( 255, 255, 255, 0.15 );
+box-shadow: 0 8px 32px 0 rgba(0, 0, 0, 0.37);
+backdrop-filter: blur( 20px );
+-webkit-backdrop-filter: blur( 20px );
+border-radius: 10px;
+border: 1px solid rgba( 255, 255, 255, 0.18 );
+height: 150px;
+width: 150px;
+} 
+.bt:hover{
+    background: rgba( 255, 255, 255, 0.3 );
+    transform: scale(1.1);
+}
+.p_acceuil{
+    font-size: 16px;
+    color: black;
+    margin: 16px 0;
+    font-weight: bold;
+}

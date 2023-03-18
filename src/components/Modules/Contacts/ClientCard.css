@@ -1,0 +1,28 @@
+.client-card{
+height: 120px;
+width :320px;
+background-color: white;
+display: flex;
+border: 1px #BDBDBD solid ;
+position: absolute;
+margin-top: 20px;
+}
+.client-img{
+   
+    width: 35% ;
+}
+.client-details{
+
+    width:65%;
+    padding: 5px 10px;
+}
+.client-details h3 {
+    font-size: 25px;
+    
+}
+.client-WebsiteLink{
+    margin: 10px 0;
+}
+.client-Phone {
+    margin: 10px 0;
+}

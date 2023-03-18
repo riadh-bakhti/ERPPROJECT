@@ -1,0 +1,49 @@
+
+.img1{
+    width: 700px;
+    height: 600px
+    ;
+}
+.image{
+    width: 80px;
+    height: 80px;
+}
+
+
+.SlideImg {
+    width: 500px;
+    height: 300px;
+
+}
+.list1{
+    list-style: none;
+    cursor: pointer;
+    font-weight:bolder;
+    
+}
+.list1 li{
+    margin: 30px 0;
+}
+.blackselector{
+    position: absolute;
+    width: 10px;
+    height: 50px;
+    background-color: black;
+    border-radius: 10px;
+    transform: translateY(0px); 
+    transition-duration: 0.5s;
+    
+
+}
+.nav_links_2{
+    position: relative;
+}
+
+
+
+
+
+
+
+
+

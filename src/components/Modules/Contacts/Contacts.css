@@ -1,0 +1,19 @@
+.createContact{
+    width: 850px;
+}
+.searchContact{
+    width: 850px;
+
+}
+.searchContact A img {
+    height: 16px;
+    width: 16px;
+}
+
+.test{
+    border: 1px solid black;
+}
+.ClientShow{
+    background-color:  #EEEEEE;
+    height: 650px;
+}
